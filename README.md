@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+My name is Adam, welcome to my profile 🤓✨
+
+- 📫 How to reach me: dziuk.business@gmail.com
+
 <!--
 **dukecoding/dukecoding** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
