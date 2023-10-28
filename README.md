@@ -1,7 +1,8 @@
-### Hi there 👋
+# Hi there 👋, I'm Adam
+Welcome to my profile! 
+Here's a couple of things, that you might want to know about me
 
-My name is Adam, welcome to my profile 🤓✨
-
+- 🎯 I’m currently working on <a href="https://github.com/dukecoding/TabRemind">TabRemind</a>, a chrome extension
 - 📫 How to reach me: dziuk.business@gmail.com
 
 <!--
