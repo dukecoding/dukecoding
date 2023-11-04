@@ -3,7 +3,6 @@
 Here's a couple of things, that you might want to know about me
 
 - 📚 I’m currently learning `Next.js`
-- 🎯 I’m currently working on <a href="https://github.com/dukecoding/TabRemind">TabRemind</a>, a chrome extension
 - 📫 How to reach me: dziuk.business@gmail.com
 
 ### Tech stack
