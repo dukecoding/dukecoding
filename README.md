@@ -2,7 +2,9 @@
 
 Here's a couple of things, that you might want to know about me
 
-- 📚 I’m currently learning `Next.js`
+- 🔭 I’m currently working on _**a web app helping train passengers to reach their destination easier**_
+- 🌱 I’m currently learning MERN (Mongo, React, Express, Node)
+- 💬 You can talk with me about web technologies
 - 📫 How to reach me: dziuk.business@gmail.com
 
 ### Tech stack
