@@ -19,6 +19,9 @@ Here's a couple of things, that you might want to know about me
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="37" height="37" />
 </p>
 
+### Yeah, I code to this ⬇️
+<a href="https://www.youtube.com/watch?v=rSDoXnslLsg&t=3s&ab_channel=bits%26hits">🩵 Skyrim but it's lofi beats</a>
+
 <!--
 **dukecoding/dukecoding** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
