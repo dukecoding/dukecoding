@@ -3,7 +3,7 @@
 Here's a couple of things, that you might want to know about me
 
 - 🔭 I’m currently working on _**a web app helping train passengers to reach their destination easier**_
-- 🌱 I’m currently learning MERN (Mongo, React, Express, Node)
+- 🌱 I’m currently trying out the Zed editor (open-source, written in Rust!)
 - 💬 You can talk with me about web technologies
 - 📫 How to reach me: dziuk.business@gmail.com
 
