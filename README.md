@@ -1,17 +1,10 @@
-## Hi there 👋 I'm Adam, welcome to my profile!
+## Hi there 👋 My name is Adam, I'm glad you're visiting my profile!
 
 Here's a couple of things, that you might want to know about me
 
-- 🔭 I’m currently working on _**a web app helping train passengers to reach their destination easier**_
-- 🌱 I’m currently trying out the Zed editor (open-source, written in Rust!)
-- 💬 You can talk with me about web technologies
-- 📫 How to reach me: dziuk.business@gmail.com
+[![My Skills](https://skillicons.dev/icons?i=php,laravel,phpstorm,linux,apple)](https://skillicons.dev)
 
-### Tech stack
-[![My Skills](https://skillicons.dev/icons?i=react,vue,js,ts,html,css,sass,tailwind,bootstrap)](https://skillicons.dev)
 
-### Yeah, I code to this ⬇️
-<a href="https://www.youtube.com/watch?v=rSDoXnslLsg&t=3s&ab_channel=bits%26hits">🩵 Skyrim but it's lofi beats</a>
 
 <!--
 **dukecoding/dukecoding** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
